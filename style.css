@@ -104,7 +104,7 @@ body {
   .card {
     display: flex;
     width: 600px; /* 桌面端卡片宽度 */
-    height: 420px; /* 桌面端卡片高度 */
+    height: 450px; /* 桌面端卡片高度 */
   }
 
   .card-title {
